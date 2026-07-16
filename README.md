@@ -64,14 +64,4 @@ price, promo, weekday, month
    streamlit run app.py
 
 
-📊 Usage
-1. Open the dashboard in your browser (Streamlit URL will appear after running the app).
-2. Upload your sales CSV file.
-3. Demand Forecast: Click “Predict Tomorrow Demand”
-   * See predicted sales, RMSE, and MAE.
-     <img width="652" height="400" alt="Screenshot (676)" src="https://github.com/user-attachments/assets/508015ae-9e8f-4bec-9cd3-541740d7ecc8" />
-
-4. Inventory Optimization: Click “Run Optimization”
-   * See RL agent’s order, warehouse, route, reward, and next state.
-     <img width="949" height="507" alt="Screenshot (675)" src="https://github.com/user-attachments/assets/4617e950-931e-447b-8416-d92b20b18909" />
 
