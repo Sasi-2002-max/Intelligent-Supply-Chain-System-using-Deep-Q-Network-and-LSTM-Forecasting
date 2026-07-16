@@ -1,4 +1,3 @@
-  <img width="1846" height="881" alt="Screenshot (674)" src="https://github.com/user-attachments/assets/75ebba8f-cd0b-4eed-ab01-f9069973586a" />
 
 📝 Project Overview
 
